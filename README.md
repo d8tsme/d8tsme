@@ -1,17 +1,18 @@
-## Olá, sou Davi Gama! 👋
+# Olá, sou Davi Gama! 👋
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> <img src=" https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="  https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+### 🖥️ Sobre mim
+Sou estudante do Ensino Médio Técnico em Informática no Centro Educacional Renato Cozzolino (CEC), com previsão de conclusão em dezembro de 2025. Tenho grande interesse na área de tecnologia e pretendo seguir carreira em Engenharia da Computação.
 
-🎓 **Técnico em Informática** (Conclusão: Dezembro/2025)
-
-🚀 **Atualmente cursando:**
-Bootcamp **Java Native Cloud** com Bradesco na **DIO (Digital Innovation One)**
+## 🚀 Formação e Conhecimentos em Tecnologia
+- 🎓 Técnico em Informática (Conclusão: Dezembro/2025)
+- 📌 Tecnologias aprendidas:
+  - HTML, CSS
+  - Básico de C++, Python e MySQL
+  - Figma (Design UI/UX)
+- 📌 Tecnologias em aprendizado:
+  - JavaScript, Java, Flutterflow
+- 🚀 Atualmente cursando:
+  - Bootcamp **Java Native Cloud** com Bradesco na **DIO (Digital Innovation One)**
 
 ## 🌎 Idiomas
 - 🇧🇷 Português (Nativo)
@@ -29,3 +30,4 @@ Sinta-se à vontade para se conectar comigo! 🚀
 ## 🌀 Estatísticas
 [![card](https://github-readme-stats.vercel.app/api?username=d8tsme&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![d8tsme](https://github-readme-stats.vercel.app/api/top-langs/?username=d8tsme&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
