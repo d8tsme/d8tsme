@@ -1,7 +1,7 @@
 # Olá, sou Davi Gama! 👋
 
 ### Sobre mim
-Sou estudante do Ensino Médio Técnico em Informática no Centro Educacional Renato Cozzolino (CEC), com previsão de conclusão em dezembro de 2025. Tenho grande interesse na área de tecnologia e pretendo seguir carreira em Engenharia da Computação.
+Estudante de Engenharia Civil na [UFRJ](https://www.linkedin.com/in/datgrj/) e entusiasta de tecnologia, misturando exatas com desenvolvimento de software, automação e aprendizado contínuo. Vivência em projetos acadêmicos, iniciativas sociais e liderança, sempre buscando unir inovação, resolução de problemas e impacto positivo.
 
 ## Formação e Conhecimentos em Tecnologia
 - Técnico em Informática 
@@ -22,7 +22,7 @@ Sou estudante do Ensino Médio Técnico em Informática no Centro Educacional Re
 - 🇫🇷 Francês (Aprendendo)
 
 ## Contato
-- Email: [develogama@gmail.com](mailto:develogama@gmail.com)
+- Email: [academicdg08@gmail.com](mailto:academicdg08@gmail.com)
 - LinkedIn: [linkedin.com/in/datgrj](https://www.linkedin.com/in/datgrj/)
 - GitHub: [github.com/d8tsme](https://github.com/d8tsme)
 
